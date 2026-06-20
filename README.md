@@ -10,7 +10,7 @@ Consolidar o conhecimento essencial para construir aplicações web com Flask, e
 
 Consultar a documentação oficial https://flask.palletsprojects.com/en/stable/quickstart
 
-## 🚀 Como Usar Este Repositório (para meu aprendizado)
+## 🚀 Como Usar Este Repositório
 
 ### Pré-requisitos
 
