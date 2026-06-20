@@ -2,10 +2,6 @@
 
 # Fundamentos do Flask - Guia de Estudos
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.3.x-green.svg)](https://flask.palletsprojects.com/)
-[![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow.svg)]()
-
 ---
 
 ## 🎯 Objetivo
@@ -26,7 +22,7 @@ Consolidar o conhecimento essencial para construir aplicações web com Flask, e
 - **Modo Debug**: 
   - Recarrega automaticamente quando o código é alterado
   - Mostra um debugger interativo no navegador em caso de erro
-  - ⚠️ **ATENÇÃO**: O debugger permite execução de código Python arbitrário. NUNCA use em produção.
+  - **ATENÇÃO**: O debugger permite execução de código Python arbitrário. NUNCA use em produção.
 - **Servidor Publicamente Visível**: Use `--host=0.0.0.0` para tornar o servidor acessível em toda a rede.
 
 ### 3. Segurança e Escapamento HTML
@@ -191,7 +187,7 @@ Consolidar o conhecimento essencial para construir aplicações web com Flask, e
 
 ---
 
-## 📖 Referência Rápida - Objetos Principais
+## Referência Rápida - Objetos Principais
 
 | Objeto | Descrição | Uso Principal |
 |--------|-----------|---------------|
@@ -216,7 +212,7 @@ Consolidar o conhecimento essencial para construir aplicações web com Flask, e
 
 ---
 
-## 📝 Roteiro de Estudos Sugerido
+## Roteiro de Estudos Sugerido
 
 | Dia | Tópico | Base na Documentação |
 |-----|--------|---------------------|
